@@ -46,10 +46,10 @@ To install and run the project locally, follow these steps:
    ```bash
    git clone https://github.com/elliot31878/sensor-shopping.git
    
-$Navigate to the project directory:
+$ Navigate to the project directory:
 ```cd sensor-shopping```
 
-#AddToCart:
+# AddToCart:
 ```
 cd /addToCart
 npm install
@@ -57,7 +57,7 @@ npm run start
 
 ```
 
-#Cart:
+# Cart:
 ```
 cd /cart
 npm install
@@ -73,7 +73,7 @@ npm run start
 
 ```
 
-#Home:
+# Home:
 ```
 cd /home
 npm install
@@ -81,7 +81,7 @@ npm run start
 
 ```
 
-#Home:
+# Home:
 ```
 cd /server
 npm install
@@ -89,13 +89,13 @@ npm run start
 
 ```
 
-#Running Tests
+# Running Tests
 
 ```
 npm run test
 ```
 
-#Reference
+# Reference
 This project is based on the tutorial: [Microfrontend Tutorial with Module Federation](https://www.youtube.com/watch?v=lKKsjpH09dU&t=2633s)
 
 
