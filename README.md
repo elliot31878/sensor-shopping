@@ -45,3 +45,59 @@ To install and run the project locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/elliot31878/sensor-shopping.git
+   
+$Navigate to the project directory:
+```cd sensor-shopping```
+
+#AddToCart:
+```
+cd /addToCart
+npm install
+npm run start
+
+```
+
+#Cart:
+```
+cd /cart
+npm install
+npm run start
+
+```
+
+#AddToCart:
+```
+cd /addToCart
+npm install
+npm run start
+
+```
+
+#Home:
+```
+cd /home
+npm install
+npm run start
+
+```
+
+#Home:
+```
+cd /server
+npm install
+npm run start
+
+```
+
+#Running Tests
+
+```
+npm run test
+```
+
+#Reference
+This project is based on the tutorial: Microfrontend Tutorial with Module Federation ["https://www.youtube.com/watch?v=lKKsjpH09dU&t=2633s"].
+
+
+
+
