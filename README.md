@@ -49,7 +49,7 @@ To install and run the project locally, follow these steps:
 $ Navigate to the project directory:
 ```cd sensor-shopping```
 
-# AddToCart:
+# AddToCart
 ```
 cd /addToCart
 npm install
@@ -57,7 +57,7 @@ npm run start
 
 ```
 
-# Cart:
+# Cart
 ```
 cd /cart
 npm install
@@ -65,7 +65,7 @@ npm run start
 
 ```
 
-#AddToCart:
+#AddToCart
 ```
 cd /addToCart
 npm install
@@ -73,7 +73,7 @@ npm run start
 
 ```
 
-# Home:
+# Home
 ```
 cd /home
 npm install
@@ -81,7 +81,7 @@ npm run start
 
 ```
 
-# Home:
+# Home
 ```
 cd /server
 npm install
