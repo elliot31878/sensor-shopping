@@ -96,7 +96,8 @@ npm run test
 ```
 
 #Reference
-This project is based on the tutorial: [Microfrontend Tutorial with Module Federation] ("https://www.youtube.com/watch?v=lKKsjpH09dU&t=2633s").
+This project is based on the tutorial: [Microfrontend Tutorial with Module Federation](https://www.youtube.com/watch?v=lKKsjpH09dU&t=2633s)
+
 
 
 
